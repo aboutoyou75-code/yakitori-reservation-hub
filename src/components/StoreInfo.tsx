@@ -63,19 +63,20 @@ export function StoreInfo() {
                 <Car className="w-6 h-6 text-brand-primary" />
               </div>
               <div>
-                <h3 className="font-bold mb-1">お支払い / 喫煙</h3>
+                <h3 className="font-bold mb-1">お支払い / 喫煙 / 駐車場</h3>
                 <p className="text-gray-600 dark:text-gray-400 text-sm">
                   クレジットカード / PayPay 利用可<br />
-                  全席喫煙可能
+                  全席喫煙可能<br />
+                  <span className="font-bold">駐車場：</span> 専用駐車場はございません。近隣のコインパーキング（タイムズ新大宮大宮町・ワンパーク三条大宮通りなど）をご利用ください。
                 </p>
               </div>
             </div>
           </div>
 
           <div className="space-y-6">
-            <div className="rounded-3xl overflow-hidden border border-gray-100 dark:border-white/10 shadow-lg h-64 md:h-full min-h-[300px]">
+            <div className="rounded-3xl overflow-hidden border border-gray-100 dark:border-white/10 shadow-lg h-64 md:h-full min-h-[350px]">
               <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3281.7915357805156!2d135.8116544!3d34.6802!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600139994c9f1345%3A0xe726875b1441b44b!2z54Kt54S844KE44GN44Go44KK5LiA55WqIOS4ieeVocWhu-W3neW6lw!5e0!3m2!1sja!2sjp!4v1710300000000!5m2!1sja!2sjp" 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3281.79124436531!2d135.8116491!3d34.6802081!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600139994c9f1345%3A0xe726875b1441b44b!2z54Kt54S844KE44GN44Go44KK5LiA55WqIOS4ieeVocWhu-W3neW6lw!5e0!3m2!1sja!2sjp!4v1710300000000" 
                 width="100%" 
                 height="100%" 
                 style={{ border: 0 }} 

@@ -76,7 +76,7 @@ export function StoreInfo() {
           <div className="space-y-6">
             <div className="rounded-3xl overflow-hidden border border-gray-100 dark:border-white/10 shadow-lg h-64 md:h-full min-h-[350px]">
               <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3281.79124436531!2d135.8116491!3d34.6802081!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600139994c9f1345%3A0xe726875b1441b44b!2z54Kt54S844KE44GN44Go44KK5LiA55WqIOS4ieeVocWhu-W3neW6lw!5e0!3m2!1sja!2sjp!4v1710300000000" 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.9320875416045!2d135.8115682!3d34.68177589999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60013b8c637bb65b%3A0x6950f631f1da8d4a!2z44KE44GN44Go44KK5LiA6Iiq5LiJ5p2h5re75bed5bqX!5e0!3m2!1sja!2sjp!4v1741847154249!5m2!1sja!2sjp" 
                 width="100%" 
                 height="100%" 
                 style={{ border: 0 }} 
